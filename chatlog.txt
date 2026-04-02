@@ -1,0 +1,48 @@
+Welcome: type='Welcome' request_id='8df1be83-eee6-493c-8e7b-f63b54ae3f6b'
+Settings applied: type='SettingsApplied'
+{"type": "ConversationText"}
+User started speaking
+Welcome: type='Welcome' request_id='136737c5-5628-41a2-bba5-cac7453591ac'
+Settings applied: type='SettingsApplied'
+{"type": "ConversationText"}
+User started speaking
+{"type": "ConversationText"}
+User started speaking
+{"type": "ConversationText"}
+User started speaking
+{"type": "ConversationText"}
+User started speaking
+{"type": "ConversationText"}
+{"type": "ConversationText"}
+{"type": "ConversationText"}
+Connection closed
+Welcome: type='Welcome' request_id='f903ab18-00c7-45af-b4ca-3b10d5e1143e'
+Settings applied: type='SettingsApplied'
+{"type": "ConversationText"}
+User started speaking
+{"type": "ConversationText"}
+User started speaking
+{"type": "ConversationText"}
+User started speaking
+{"type": "ConversationText"}
+{"type": "ConversationText"}
+User started speaking
+{"type": "ConversationText"}
+{"type": "ConversationText"}
+{"type": "ConversationText"}
+{"type": "ConversationText"}
+Welcome: type='Welcome' request_id='be1fe18c-a3b0-4d6b-a9ca-fc06297c58b6'
+Settings applied: type='SettingsApplied'
+{"type": "ConversationText"}
+User started speaking
+{"type": "ConversationText"}
+User started speaking
+{"type": "ConversationText"}
+User started speaking
+{"type": "ConversationText"}
+{"type": "ConversationText"}
+User started speaking
+{"type": "ConversationText"}
+{"type": "ConversationText"}
+{"type": "ConversationText"}
+Connection closed
