@@ -49,7 +49,7 @@ Audio Response to User
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/realtime-voice-engine.git
+git clone https://github.com/dinesht-aiolos/realtime-voice-engine.git
 cd realtime-voice-engine
 ```
 
